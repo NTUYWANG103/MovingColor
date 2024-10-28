@@ -1,0 +1,9 @@
+*.__pycache__
+*.pyc
+*.pyc.*
+*.pyo
+*.pyo.*
+datasets_video
+!datasets/youtube-vos/train.json
+experiments_model
+results

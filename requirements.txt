@@ -1,0 +1,9 @@
+opencv-python
+tqdm
+einops
+kornia
+matplotlib
+setuptools
+numpy<2
+tensorboard
+pillow_lut
