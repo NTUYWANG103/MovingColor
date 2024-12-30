@@ -1,5 +1,5 @@
 # MovingColor: Seamless Fusion of Fine-grained Video Color Enhancement
-Official PyTorch Implementation of ACM MM 2024 (Oral) Paper "[MovingColor: Seamless Fusion of Fine-grained Video Color Enhancement](https://yidong.pro/projects/movingcolor/camera_ready.pdf)"
+Official PyTorch Implementation of ACM MM 2024 (Oral) Paper "[MovingColor: Seamless Fusion of Fine-grained Video Color Enhancement](https://yidong.pro/projects/movingcolor/)"
 
 ![Figure 1](images/main.png)
 ![Figure 2](images/compare.png)
